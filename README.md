@@ -1,2 +1,3 @@
 # hello-word
-test
+Pozdravljeni
+igram se z malino in testiram pitona :)
